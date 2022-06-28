@@ -35,7 +35,7 @@ global.btnurl = 'https://wa.me/+94727339111' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '𝙎.𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏࿐' //Bot Pacage Name
+global.packname = '𝙎.𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏' //Bot Pacage Name
 global.author = '𝙎𝘼𝙉𝙐𝙆𝘼 𝙂𝙀𝙀𝙉𝙄𝙏𝙃❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
