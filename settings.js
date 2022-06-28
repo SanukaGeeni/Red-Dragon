@@ -20,40 +20,40 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `𝙎.𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉
+𝙈𝙔 𝙊𝙒𝙉𝙀𝙍 𝙄𝙎 𝙎𝘼𝙉𝙐𝙆𝘼 𝙂𝙀𝙀𝙉𝙄𝙏𝙃` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94711719336'] //Owner number in aive msg
+global.premium = ['+94711719336'] //Owner Number info
+global.ownernomer = '+94711719336' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '𝙎𝘼𝙉𝙐𝙆𝘼 𝙂𝙀𝙀𝙉𝙐𝙏𝙃' //Owner Name
+global.botname = ' 𝙎 𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝘼𝙍📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/+94727339111' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '𝙎.𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏࿐' //Bot Pacage Name
 global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://chat.whatsapp.com/IHkKb4LgKkQBuu37pjw4X6' //Github Account!
+global.footer = '𝙎.𝙂 𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝙒𝘼 𝙂𝙍𝙊𝙐𝙋.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    admin: 'ඇඩ්මින්ලට විතරයි මේක',
+    botAdmin: 'මට ඇඩ්මින් දීපියාව්',
+    owner: 'මේක 𝙪𝙨𝙚 කරන්න පුලුවන් 𝙤𝙬𝙣𝙚𝙧 ට විතරයි',
+    group: '𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 𝙂𝙍𝙊𝙐𝙋 වලට විතරයි!',
+    private: 'මේ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 𝙋𝙍𝙄𝙑𝙀𝙏 𝘾𝙃𝘼𝙏 එකකට විතරයි!',
+    bot: 'මේ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 මට විතරයි තොපිට නැ',
+    wait: 'ටිකක් වෙලා ඉන්න...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
